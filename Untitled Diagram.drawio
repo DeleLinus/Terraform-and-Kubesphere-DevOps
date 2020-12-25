@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T14:45:17.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Pg6mtpHbjZbrVI5SidUS" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T14:47:26.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_UxGu1Rg0W31c-4YO1Rg" version="14.1.2" type="github">
   <diagram id="_KUrhppYNG84L4hXwcSn" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,8 +115,8 @@
             <mxPoint x="49" y="26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J2-ld_kEe9FjWChwA-ZW-44" value="Infastructure as Code&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="176" width="80" height="20" as="geometry" />
+        <mxCell id="J2-ld_kEe9FjWChwA-ZW-44" value="Deploy pod to an Infrastructure as Code software" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="169" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
