@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T13:47:55.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AMp9iM-yn-UY7NZ9ewrn" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T13:48:38.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AS6SidQMqbWWk5Slwcjz" version="14.1.2" type="github">
   <diagram id="_KUrhppYNG84L4hXwcSn" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="J2-ld_kEe9FjWChwA-ZW-9" value="&lt;b&gt;Drools&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="249" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J2-ld_kEe9FjWChwA-ZW-10" value="&lt;b&gt;Delta Lake&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="J2-ld_kEe9FjWChwA-ZW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="289" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J2-ld_kEe9FjWChwA-ZW-12" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="J2-ld_kEe9FjWChwA-ZW-6">
