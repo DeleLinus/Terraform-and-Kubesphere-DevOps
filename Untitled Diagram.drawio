@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T14:35:14.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="bVVrBW3lGNySIpwfMNbc" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T14:37:22.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zSItM7axlBYNQVzOVfGL" version="14.1.2" type="github">
   <diagram id="_KUrhppYNG84L4hXwcSn" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="J2-ld_kEe9FjWChwA-ZW-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Terraform&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=10;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1120" y="176" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="J2-ld_kEe9FjWChwA-ZW-39" value="CI/CD Pipelines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="870" y="149" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
