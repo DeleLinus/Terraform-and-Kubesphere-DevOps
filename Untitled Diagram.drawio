@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T14:41:24.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vU4X_2D3IXXIhu4TGAgM" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T14:45:17.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Pg6mtpHbjZbrVI5SidUS" version="14.1.2" type="github">
   <diagram id="_KUrhppYNG84L4hXwcSn" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="J2-ld_kEe9FjWChwA-ZW-34" value="Deploy Containerized" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="721" y="180" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J2-ld_kEe9FjWChwA-ZW-35" value="&lt;span style=&quot;color: rgb(51 , 68 , 77) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Peforming CI/CD to providing tools for scaling, networking, securing, maintaining and testing your containerized applications (Kubesphere and K6)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="J2-ld_kEe9FjWChwA-ZW-35" value="&lt;span style=&quot;color: rgb(51 , 68 , 77) ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Peforming CI/CD to providing tools for scaling, networking, securing, maintaining and testing your containerized applications (Kubesphere, KEDA and K6)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="825" y="260" width="170" height="91" as="geometry" />
         </mxCell>
         <mxCell id="J2-ld_kEe9FjWChwA-ZW-36" value="Applications" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;" vertex="1" parent="1">
@@ -114,6 +114,9 @@
             <mxPoint x="49" y="53" as="sourcePoint" />
             <mxPoint x="49" y="26" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J2-ld_kEe9FjWChwA-ZW-44" value="Infastructure as Code&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="176" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
